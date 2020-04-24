@@ -1,4 +1,4 @@
-# book-assistant-bakend
+# book-assistant-backend
 
 ### To run the server
 
