@@ -1,0 +1,19 @@
+{
+  "name": "book-assistant-backend",
+  "version": "1.0.0",
+  "description": "A hobby project to track books i want to read or i have red",
+  "main": "server.js",
+  "scripts": {
+    "server": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "igokul95@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.9.10"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.3"
+  }
+}
